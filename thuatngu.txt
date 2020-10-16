@@ -1,0 +1,10 @@
+1.DNS: Hệ thống phân giải tên miền (ví dụ: http//localhost ==> 127.0.01)
+2.Domain name registering: Đăng ký tên miền
+3.Hosting: Nơi đặt trang web
+4.Web Server: cung cấp dịch vụ trên internet
+5.Git: Kho chứa dự án
+6.Database: Cơ sở dữ liệu lưu trữ
+̃7̃.Web Client: gửi yêu cầu và nhận thông tin từ Web Server
+8.Xampp: Server thử nghiệm
+̣9.HTML: tạo nên các Web page
+10. Wordpress: tạo blog
